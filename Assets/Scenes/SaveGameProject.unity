@@ -6215,7 +6215,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5832747190612958694, guid: 71e1570944aac994e8720987cc7df245, type: 3}
       propertyPath: m_Name
-      value: UD_demo_character
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 5832747190622482002, guid: 71e1570944aac994e8720987cc7df245, type: 3}
       propertyPath: m_Controller
